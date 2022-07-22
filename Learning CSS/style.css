@@ -1,0 +1,20 @@
+.hello{
+    /* margin: 0;
+    padding: 0;
+    justify-content: center; */
+    background-image: url(img-3.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-color: red;
+    height: 100vh;
+    /* text-align: center;
+    background-image: linear-gradient(-50%);
+    align-items: center; */
+    /* display: flex; */
+}
+.hello h1{
+    margin-top: 10px;
+    padding: 0;
+    margin-left: 25%;
+    justify-content: center;
+}
